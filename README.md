@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+create crud User App using React Redux Typescript Material-ui
+
+# Output
+
+![Screen Shot 2022-11-25 at 16 27 54](https://user-images.githubusercontent.com/32503637/203947182-cbb4b908-1cef-490e-bb6d-2852f6a9cc1a.png)
+
 
 ## Available Scripts
 
